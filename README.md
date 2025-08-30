@@ -3,7 +3,7 @@
 
 <br>
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **web development & machine learning projects**
 
 - 📫 How to reach me **tejsaxena2004@gmail.com**
 
