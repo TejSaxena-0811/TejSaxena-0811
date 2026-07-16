@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tej Saxena</h1>
-<h3 align="center">A passionate Full Stack Web Developer and Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer and AI-ML Enthusiast from India</h3>
 
 <br>
 
-- 👯 I’m looking to collaborate on **web development & machine learning projects**
+- 👯 I’m looking to collaborate on **web development & AI-ML projects**
 
 - 📫 How to reach me **tejsaxena2004@gmail.com**
 
