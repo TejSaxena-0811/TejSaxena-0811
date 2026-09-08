@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Tej Saxena</h1>
+<h3 align="center">A passionate Full Stack Web Developer and AI-ML Enthusiast from India</h3>
+
 # 💫 About Me:
-🔭 I’m currently working on Octave v1 (playlist converter)<br>👯 I’m looking to collaborate on AI, ML and Web Development projects.<br>💬 Ask me about the above fields, or music.<br>⚡ I like to draw stuff.
+🔭 I’m currently working on Octave v1 (AI powered playlist converter)<br>👯 I’m looking to collaborate on AI, ML and Web Development projects.<br>💬 Ask me about the above fields, or music.<br>⚡ I like to draw stuff.
 
 
 ## 🌐 Socials:
