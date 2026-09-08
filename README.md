@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 email: tejsaxena2004@gmail.com
-<br>
+<br><br>
 portfolio: https://tej-saxena.vercel.app/
 
 # 💻 Tech Stack:
