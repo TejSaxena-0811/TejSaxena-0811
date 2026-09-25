@@ -18,4 +18,5 @@ portfolio website: https://tej-saxena.vercel.app/
 ![](https://streak-stats.demolab.com/?user=TejSaxena-0811&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TejSaxena-0811&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+![](https://komarev.com/ghpvc/?username=TejSaxena-0811&style=for-the-badge)
