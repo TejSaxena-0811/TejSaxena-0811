@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist and Software Developer (AI & ML) from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Octave v1 (AI-powered playlist converter), and RAG (Data Science) projects.<br>👯 I’m looking to collaborate on AI, ML and Web Development projects.<br>💬 Talk to me about the above fields, or music.<br>⚡ I like to draw stuff.<br>☕ DSA in Java.
+🔭 I’m currently working on Data Science (RAG) projects, and Octave v1 (AI-powered playlist converter).<br>👯 I’m looking to collaborate on AI, ML and Web Development projects.<br>💬 Talk to me about the above fields, or music.<br>⚡ I like to draw stuff.<br>☕ DSA in Java.
 
 
 ## 🌐 Socials:
